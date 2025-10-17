@@ -4,7 +4,7 @@ import "testing"
 
 func TestSoma(t *testing.T) {
 
-	//
+	//s
 	total := Soma(15, 10)
 
 	if total != 30 {
